@@ -1,6 +1,6 @@
 # Resume
 
-[Click Here to see my Resume!](https://github.com/hishamissa/Resume/blob/main/Resume.PDF)
+[Click Here to see my Resume!](https://github.com/hishamissa/Resume/blob/main/Resume.pdf)
 
 Updated 2024 Resume. Created/developed using LaTex. 
 
